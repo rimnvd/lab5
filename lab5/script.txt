@@ -1,8 +1,0 @@
-show
-info
-stepa
-help
-riiii
-remove_last
-execute_script script1.txt
-execute_script script1.txt

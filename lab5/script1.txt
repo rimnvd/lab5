@@ -1,4 +1,0 @@
-show
-execute_script script.txt
-add dragon
-execute_script script1.txt
